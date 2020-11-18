@@ -1,0 +1,14 @@
+.todo-list {
+  background-color: #495464;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid white;
+}
+.button-container {
+  display: flex;
+}
+.todo-text {
+  font-size: 1.5rem !important;
+}
